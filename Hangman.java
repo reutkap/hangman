@@ -1,5 +1,5 @@
 import java.util.*;
-public class hangman {
+public class Hangman {
 	public static Scanner input = new Scanner(System.in);
 	public static String word(String s1, String s2) {
 		String a = "";
